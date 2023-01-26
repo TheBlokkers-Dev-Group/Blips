@@ -2,7 +2,7 @@ fx_version 'cerulean' -- Currently compatible with my server version: 620820541,
 game 'gta5'
 
 author 'TheBlokker <https://github.com/TheBlokker>'
-description 'Blips2'
+description 'Blips'
 
 client_scripts {
     "client.lua"
